@@ -9,3 +9,5 @@ Comparações entre duas soluções para o cálculo do CET.
 Minha solução está na classe CetSolucaoSecantes no método privado _GetCET().
 
 Eu uso o método numérico chamado Método das Secantes para calcular o CET.
+
+Para mais detalhes consulte: https://quaestionesdisputataerm.wordpress.com/category/programacao/c/
