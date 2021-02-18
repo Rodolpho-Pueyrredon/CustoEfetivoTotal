@@ -10,4 +10,4 @@ Minha solução está na classe CetSolucaoSecantes no método privado _GetCET().
 
 Eu uso o método numérico chamado Método das Secantes para calcular o CET.
 
-Para mais detalhes consulte:
+Para mais detalhes consulte: https://www.linkedin.com/pulse/custo-efetivo-total-em-c-rodolpho-morethson
